@@ -1,0 +1,30 @@
+.jumbotron{
+    font-size: 100px;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: lightslategray;
+}
+  
+.label {
+    font-weight: bold;
+}
+  
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: lightcoral;
+}
+  
+.create-form {
+    margin-bottom: 5px;
+}
+
+/* .undevoured{
+
+}
+.devoured{
+
+} */
